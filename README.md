@@ -7,4 +7,8 @@
 
 ## Concepts Used
 - Navigation
-- 
+- Room
+- MVVM
+- Internet Check
+
+[Retrofit Setup - MVVM News App](https://youtu.be/dr-CFz1j_8k "Named link title")
