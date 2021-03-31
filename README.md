@@ -11,4 +11,9 @@
 - MVVM
 - Internet Check
 
-[DAO and Article Setup Room - MVVM News App](https://youtu.be/hROS736jM6A "Named link title")
+## Learning
+- learn diff util from this
+- learn on click listner for adapter from this
+- learn apply method from onBindViewHolder func from this
+
+[Architectural Skeleton - MVVM News App](https://youtu.be/1FGlU6r5o1w "Named link title")
