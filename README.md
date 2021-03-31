@@ -11,4 +11,4 @@
 - MVVM
 - Internet Check
 
-[Retrofit Setup - MVVM News App](https://youtu.be/dr-CFz1j_8k "Named link title")
+[DAO and Article Setup Room - MVVM News App](https://youtu.be/hROS736jM6A "Named link title")
