@@ -21,4 +21,4 @@
 - learn apply method from onBindViewHolder func from this
 - best app to learn combination of MVVM, retrofit2, room && single activity architecture
 
-[Architectural Skeleton - MVVM News App](https://youtu.be/CImY032nWws "Named link title")
+[Architectural Skeleton - MVVM News App](https://youtu.be/CImY032nWws?t=163 "Named link title")
